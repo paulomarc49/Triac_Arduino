@@ -72,11 +72,6 @@ Desarrollado por Luis Paolo Marcial Sánchez. Basado en librerías de:
 
 ---
 
-## 📸 Imagen de ejemplo (opcional)
-Puedes agregar un diagrama de conexión o una foto del montaje real si lo deseas.
-
----
-
 ## ✅ Licencia
 
 Este proyecto está licenciado bajo la [MIT License](LICENSE).
