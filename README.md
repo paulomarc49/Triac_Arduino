@@ -66,7 +66,7 @@ En la ventana del gestor de librerías:
 
 ## 🧪 Créditos y Agradecimientos
 
-Desarrollado por [Tu Nombre Aquí]. Basado en librerías de:
+Desarrollado por Luis Paolo Marcial Sánchez. Basado en librerías de:
 - [Brett Beauregard (PID Library)](https://github.com/br3ttb/Arduino-PID-Library)
 - [Paul Stoffregen (TimerOne)](https://github.com/PaulStoffregen/TimerOne)
 
